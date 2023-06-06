@@ -1,0 +1,11 @@
+{
+  "tweets": [
+    { "text": "Lorem ipsum dolor", "author": "John Doe", "username": "john" },
+    {
+      "text": "En un lugar de la Mancha",
+      "author": "Miguel de Cervantes",
+      "username": "mcervantes"
+    },
+    { "text": "Yo soy tu padre", "author": "Darth Vader", "username": "vader" }
+  ]
+}
